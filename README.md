@@ -1,2 +1,4 @@
 # app-dev
-My first repository
+favorite movies/series
+*Wonder Woman
+*The Black Widow
